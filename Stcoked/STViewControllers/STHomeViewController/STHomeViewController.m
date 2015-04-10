@@ -2,9 +2,10 @@
 //  STHomeViewController.m
 //  Stcoked
 //
-//  Created by Jebaraj Daniel S on 01/04/15.
-//  Copyright (c) 2015 Jebaraj Daniel S. All rights reserved.
+//  Created by Sandeep M on 01/04/15.
+//  Copyright (c) 2015 Finnix Lab. All rights reserved.
 //
+
 
 #import "STHomeViewController.h"
 #define IS_RETINA ([[UIScreen mainScreen] scale] >= 2.0)
